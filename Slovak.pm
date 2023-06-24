@@ -45,6 +45,8 @@ See documentation for L<Acme::CPANAuthors> for more details.
 
 =head1 EXAMPLE1
 
+=for comment filename=count_slovak_cpan_authors.pl
+
  use strict;
  use warnings;
 
@@ -63,6 +65,8 @@ See documentation for L<Acme::CPANAuthors> for more details.
  # Count of Slovak CPAN authors: 5
 
 =head1 EXAMPLE2
+
+=for comment filename=fetch_slovak_cpan_authors.pl
 
  use strict;
  use warnings;
