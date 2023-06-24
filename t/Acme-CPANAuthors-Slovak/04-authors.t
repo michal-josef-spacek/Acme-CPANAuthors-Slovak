@@ -14,6 +14,7 @@ my %right_ret = (
 	'KOZO' => "Ján 'Kozo' Vajda",
 	'LKUNDRAK' => 'Lubomir Rintel',
 	'PALI' => 'Pavol Rohár',
+	'SAMSK' => 'Samuel Behan',
 );
 is_deeply(
 	\%ret,

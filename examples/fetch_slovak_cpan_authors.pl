@@ -22,4 +22,5 @@ p @ids;
 #     [2]  "KOZO",
 #     [3]  "LKUNDRAK",
 #     [4]  "PALI",
+#     [5]  "SAMSK",
 # ]
