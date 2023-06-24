@@ -11,6 +11,7 @@ my %ret = Acme::CPANAuthors::Slovak->authors;
 my %right_ret = (
 	'BARNEY' => 'Branislav Zahradník',
 	'JKUTEJ' => 'Jozef Kutej',
+	'KOZO' => "Ján 'Kozo' Vajda",
 	'LKUNDRAK' => 'Lubomir Rintel',
 	'PALI' => 'Pavol Rohár',
 );

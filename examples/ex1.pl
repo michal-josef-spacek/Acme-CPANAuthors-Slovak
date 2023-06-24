@@ -15,4 +15,4 @@ my $count = $authors->count;
 print "Count of Slovak CPAN authors: $count\n";
 
 # Output:
-# Count of Slovak CPAN authors: 4
+# Count of Slovak CPAN authors: 5

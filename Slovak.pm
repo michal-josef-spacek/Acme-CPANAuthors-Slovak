@@ -10,6 +10,7 @@ our $VERSION = 0.03;
 use Acme::CPANAuthors::Register(
 	'BARNEY' => 'Branislav Zahradník',
 	'JKUTEJ' => 'Jozef Kutej',
+	'KOZO' => "Ján 'Kozo' Vajda",
 	'LKUNDRAK' => 'Lubomir Rintel',
 	'PALI' => 'Pavol Rohár',
 );
@@ -59,7 +60,7 @@ See documentation for L<Acme::CPANAuthors> for more details.
  print "Count of Slovak CPAN authors: $count\n";
 
  # Output:
- # Count of Slovak CPAN authors: 4
+ # Count of Slovak CPAN authors: 5
 
 =head1 EXAMPLE2
 
@@ -82,8 +83,9 @@ See documentation for L<Acme::CPANAuthors> for more details.
  # [
  #     [0]  "BARNEY",
  #     [1]  "JKUTEJ",
- #     [2]  "LKUNDRAK",
- #     [3]  "PALI",
+ #     [2]  "KOZO",
+ #     [3]  "LKUNDRAK",
+ #     [4]  "PALI",
  # ]
 
 =head1 DEPENDENCIES

@@ -31,7 +31,7 @@ EXAMPLE1
      print "Count of Slovak CPAN authors: $count\n";
 
      # Output:
-     # Count of Slovak CPAN authors: 4
+     # Count of Slovak CPAN authors: 5
 
 EXAMPLE2
      use strict;
@@ -53,8 +53,9 @@ EXAMPLE2
      # [
      #     [0]  "BARNEY",
      #     [1]  "JKUTEJ",
-     #     [2]  "LKUNDRAK",
-     #     [3]  "PALI",
+     #     [2]  "KOZO",
+     #     [3]  "LKUNDRAK",
+     #     [4]  "PALI",
      # ]
 
 DEPENDENCIES
