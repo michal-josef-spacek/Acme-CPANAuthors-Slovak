@@ -51,7 +51,7 @@ See documentation for L<Acme::CPANAuthors> for more details.
  use Acme::CPANAuthors;
 
  # Create object.
- my $authors = Acme::CPANAuthors->new('Slovak);
+ my $authors = Acme::CPANAuthors->new('Slovak');
 
  # Get number of Slovak CPAN authors.
  my $count = $authors->count;
