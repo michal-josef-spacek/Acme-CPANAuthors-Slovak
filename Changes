@@ -1,5 +1,6 @@
 0.03
  - Update copyright years.
+ - Update Module::Install to 1.21 version.
 
 0.02 2020-03-10T13:11:53+01:00
  - Add LKUNDRAK CPAN id.
