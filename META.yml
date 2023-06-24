@@ -26,7 +26,7 @@ requires:
   Acme::CPANAuthors: 0
   perl: 5.01
 resources:
-  bugtracker: https://rt.cpan.org/Public/Dist/Display.html?Name=Acme-CPANAuthors-Slovak
+  bugtracker: https://github.com/michal-josef-spacek/Acme-CPANAuthors-Slovak/issues
   homepage: https://github.com/michal-josef-spacek/Acme-CPANAuthors-Slovak
   license: http://opensource.org/licenses/bsd-license.php
   repository: git://github.com/michal-josef-spacek/Acme-CPANAuthors-Slovak

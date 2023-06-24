@@ -1,5 +1,6 @@
 0.04
  - Fix Makefile.PL fails with no '.' in @INC.
+ - Move bug tracker to GitHub.
 
 0.03 2023-06-24T14:25:30+02:00
  - Add KOZO account.
